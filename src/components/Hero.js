@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col, Button } from 'react-bootstrap';
-import profileImg from '../images/profile.jpg'; // Replace with your image
+import profileImg from '../images/profile.jpg';
 
 const Hero = () => {
   return (
@@ -12,9 +12,6 @@ const Hero = () => {
               Hey, I'm <span className="highlight">Pavan Kumar Lanke</span>
             </h1>
             <h2 className="hero-subtitle">Full Stack Web Developer</h2>
-            <p className="hero-description">
-              Creating responsive and user-friendly web applications with React, Bootstrap, and modern CSS
-            </p>
             <Button href="#contact" variant="primary" className="mt-3">
               Get In Touch
             </Button>
