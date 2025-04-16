@@ -1,7 +1,5 @@
 # Pavan Kumar Lanke - Portfolio
 
-![Portfolio Screenshot](public/images/screenshot.png)
-
 This is my professional portfolio website built with:
 
 - React JS
@@ -17,9 +15,3 @@ This is my professional portfolio website built with:
 - Skills section
 - Contact form
 - Dark mode navbar
-
-## Installation
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/yourusername/my-portfolio.git
